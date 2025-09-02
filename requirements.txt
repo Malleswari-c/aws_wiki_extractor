@@ -1,0 +1,6 @@
+requests
+logging
+dotenv
+base64
+dotenv
+pdfkit
